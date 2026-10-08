@@ -2,6 +2,9 @@ __pycache__/
 *.pyc
 
 data/*
+!data/.gitkeep
+
 output/*
+!output/.gitkeep
 
 *.csv
